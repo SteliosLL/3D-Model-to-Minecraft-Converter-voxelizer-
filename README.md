@@ -6,4 +6,5 @@ Made possible using **binvox.exe** by Patrick min: https://www.patrickmin.com/bi
 # **Preview:**
 
 ![εικόνα](https://user-images.githubusercontent.com/55713334/212494322-ad337fe3-0d69-4802-85d5-0e5a2628b0a8.png)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=FFFSN8XZHVWRU)
 
